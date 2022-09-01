@@ -1,8 +1,5 @@
 
 import java.lang.* ;
-
-
-
 import java.util.Scanner;
 
 class Butterfly {
