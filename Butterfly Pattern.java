@@ -12,8 +12,6 @@ class Butterfly {
             String str = new String(new char[i]).replace("\0", "* ");
             System.out.print(str);
             System.out.print(repeated);
-
-
             System.out.println(str);
         }
         for(int i = num ; i >=1; i --){
@@ -22,8 +20,6 @@ class Butterfly {
             String str = new String(new char[i]).replace("\0", "* ");
             System.out.print(str);
             System.out.print(repeated);
-
-
             System.out.println(str);
         }
     }
